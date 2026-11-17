@@ -1,0 +1,48 @@
+{
+  "title": "Prototype hub — EXAMPLE",
+  "brand": "YOUR STUDIO",
+  "owner": {
+    "name": "Your Name",
+    "role": "Your role, Your studio"
+  },
+  "figma": "",
+  "statuses": [
+    "Approved",
+    "In progress",
+    "Blocked",
+    "Not started"
+  ],
+  "kinds": [
+    "page research",
+    "analytics",
+    "business case",
+    "competitive analysis"
+  ],
+  "screens": [
+    {
+      "id": "example-screen",
+      "title": "Example screen (PLACEHOLDER — delete me)",
+      "status": "In progress",
+      "spec": "",
+      "versions": [
+        {
+          "version": "v1",
+          "file": "v1.html",
+          "date": "2026-01-01",
+          "note": "PLACEHOLDER. A single screen built on templates/_template.html, here only to show what a published version looks like and to give the build and the check something to run on. Delete this entry and public/example-screen/ once you publish a real screen."
+        }
+      ]
+    }
+  ],
+  "archive": [],
+  "research": [
+    {
+      "id": "example-research",
+      "title": "Example research document (PLACEHOLDER — delete me)",
+      "kind": "page research",
+      "date": "2026-01-01",
+      "file": "EXAMPLE-research.pdf",
+      "note": "PLACEHOLDER. The file it points at is not in this repo on purpose — see README.md. Delete this entry, or put a real document in public/research/ and describe it here."
+    }
+  ]
+}
